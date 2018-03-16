@@ -1,0 +1,29 @@
+{
+  "name": "distance",
+  "version": "1.0.0",
+  "description": "calculate distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuminhtriet/mobile_application_development.git"
+  },
+  "keywords": [
+    "triet"
+  ],
+  "author": "triet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.8",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/vuminhtriet/mobile_application_development/issues"
+  },
+  "homepage": "https://github.com/vuminhtriet/mobile_application_development#readme"
+}
